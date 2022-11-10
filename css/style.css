@@ -1,3 +1,8 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
 .btn-custom {
     background-color: #00b7fe;
     color: #333;
@@ -39,6 +44,7 @@
 /* The actual timeline (the vertical ruler) */
 .main-timeline {
     position: relative;
+    padding-bottom: 50px;
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -46,11 +52,12 @@
     content: "";
     position: absolute;
     width: 6px;
-    background-color: #000;
-    top: 0;
+    background: linear-gradient(180deg, rgba(196,196,196) 0%, rgba(196,196,196) 90%, rgba(196,196,196,0) 100%);;
+    top: 24px;
     bottom: 0;
     left: 50%;
     margin-left: -3px;
+    border-radius: 500px;
 }
 
 /* Container around content */
