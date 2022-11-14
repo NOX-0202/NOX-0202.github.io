@@ -1,0 +1,71 @@
+{
+    "nav": {
+        "title": "Home",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "first_section": {
+        "title": "Hey, I'm a <span class=\"custom-text\">Full-Stack</span> junior software developer.",
+        "subtitle": "Programmer from Rio and Developer since 15 years old.",
+        "button_hire": "Hire me",
+        "button_wpp": "Contact me"
+    },
+    "services": {
+        "title": "services",
+        "subtitle": "Create Solutions",
+        "first_card_title": "Mobile apps",
+        "second_card_title": "Reponsive Web Sites",
+        "third_card_title": "Database management",
+        "first_award_title": "years experience",
+        "second_award_title": "projects completed",
+        "third_award_title": "customers satisfied",
+        "fourth_award_title": "Personal Projects"
+    },
+    "about": {
+        "title": "about",
+        "subtitle": "About me",
+        "about_text": "Text-en",
+        "competence_1": "Frameworks and Languages:",
+        "competence_2": "well-known technologies:",
+        "competence_3": "knowledge in:",
+        "competence_4": "Services:",
+        "competence_5": "Soft skills:"
+    },
+    "projects": {
+        "title": "Services",
+        "subtitle": "Projects",
+        "project_title_1": "Volx Bet",
+        "project_subtitle_1": "website that helps blaze double gamblers.",
+        "project_title_2": "Copypaste",
+        "project_subtitle_2": "simple website to share text and images in real time.",
+        "project_title_3": "Point of sale",
+        "project_subtitle_3": "powerful sales app that works on/off line, sync with web panel and more",
+        "project_title_4": "EasyWork",
+        "project_subtitle_4": "platform to connect service provider to customers. (high school TCC)",
+        "project_title_5": "Dating Propose",
+        "project_subtitle_5": "project that youe put your lovers name and do not accept a no a awnser."
+    },
+    "timeline": {
+        "title": "education",
+        "subtitle": "Graduation and Work experience",
+        "event_title_1": "High school",
+        "event_subtitle_1": "I did IT on high school and built a project from zero with documentation and programming",
+        "event_title_2": "IT Assistant",
+        "event_subtitle_2": "I worked at computer and local Network maintenance, besides that I did build a storefront and back-office system.",
+        "event_title_3": "College",
+        "event_subtitle_3": "I study computer science at Unicarioca, Rio de janeiro.",
+        "event_title_4": "Link informática RJ",
+        "event_subtitle_4": "I developed mobile apps, web systems for customers and a SAS platform for intern purposes. everything was made with react and react-native."
+    },
+    "cta": {
+        "title": "NEED A DEVELOPER? CONTACT ME"
+    },
+    "contact": {
+        "title": "contact",
+        "subtitle": "Leave your message",
+        "form_email": "Email",
+        "form_message": "Message",
+        "button": "Send",
+        "phone_title": "Phone"
+    }
+}

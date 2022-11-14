@@ -1,0 +1,71 @@
+{
+    "nav": {
+        "title": "Inicio",
+        "projects": "Projetos",
+        "contact": "Contato"
+    },
+    "first_section": {
+        "title": "Olá, sou um desenvolvedor <span class=\"custom-text\">Full-Stack</span> junior.",
+        "subtitle": "Programador carioca desde os 15 anos de idade",
+        "button_hire": "Me contrata",
+        "button_wpp": "Mande uma mensagem"
+    },
+    "services": {
+        "title": "Serviços",
+        "subtitle": "Criando Soluções",
+        "first_card_title": "Aplicativos mobile",
+        "second_card_title": "Sites responsivos",
+        "third_card_title": "Banco de dados",
+        "first_award_title": "Anos de experiência",
+        "second_award_title": "Projetos concluídos",
+        "third_award_title": "Clientes satisfeitos",
+        "fourth_award_title": "Projetos pessoais"
+    },
+    "about": {
+        "title": "Sobre",
+        "subtitle": "Um pouco sobre mim",
+        "about_text": "text-pt",
+        "competence_1": "Frameworks e Linguagens",
+        "competence_2": "Noções bem fundamentadas em",
+        "competence_3": "Conhecimentos em:",
+        "competence_4": "Serviços:",
+        "competence_5": "Habilidades:"
+    },
+    "projects": {
+        "title": "Serviços",
+        "subtitle": "Projetos",
+        "project_title_1": "Volx Bet",
+        "project_subtitle_1": "Site que ajuda apostadores da blaze.com.",
+        "project_title_2": "Copypaste",
+        "project_subtitle_2": "Site para compartilhar textos e imagens nas salas em tempo real.",
+        "project_title_3": "App de Venda",
+        "project_subtitle_3": "App de vendas com integração de dashboard e emisssão de nota fiscal.",
+        "project_title_4": "EasyWork",
+        "project_subtitle_4": "Plataforma para conectar o prestador de serviço a quem está precisando. (TCC do ensino médio)",
+        "project_title_5": "Pedido de namoro",
+        "project_subtitle_5": "Coloque o nome da pessoas que você gosta e não aceite um não como resposta."
+    },
+    "timeline": {
+        "title": "Educação",
+        "subtitle": "Minha trajetória",
+        "event_title_1": "Ensino médio",
+        "event_subtitle_1": "Estudei em uma escola técnica de informática e aprendi começo de programação.",
+        "event_title_2": "Assistente de TI",
+        "event_subtitle_2": "Trabalhei como assistente de TI em uma Pizzaria fazendo manutenção nos computadores, e na rede.Logo depois fiz o sistema de frente de loja e retaguarda também.",
+        "event_title_3": "Universidade",
+        "event_subtitle_3": "Estou estudando Ciência da Computação na Unicarioca.",
+        "event_title_4": "Link informática RJ",
+        "event_subtitle_4": "Exerço a função de desenvolvedor Full-atck na Link Informática RJ, onde desenvolvo sites e sistemas web, APIS e apps."
+    },
+    "cta": {
+        "title": "Vamos trabalhar juntos? Mande uma mensagem"
+    },
+    "contact": {
+        "title": "Contato",
+        "subtitle": "Deixe sua mensagem",
+        "form_email": "Email",
+        "form_message": "Mensagem",
+        "button": "Enviar",
+        "phone_title": "Telefone"
+    }
+}
