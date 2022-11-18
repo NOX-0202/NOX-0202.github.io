@@ -201,6 +201,7 @@
     }
 
     scroll_btn.style.display = "none";
+
     select_language.addEventListener("change", () => setLanguage(select_language.value));
 
     scroll_btn.onclick = () => {
@@ -219,5 +220,5 @@
     await setCompetences();
     await setProjects();
     await setTimeLine();
-    await setLanguage();
+    await setLanguage('en');
 })()
