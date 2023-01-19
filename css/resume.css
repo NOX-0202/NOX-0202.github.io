@@ -1,3 +1,15 @@
+@page {
+    size: A4;
+    margin: 2rem;
+    orientation: portrait;
+    page-break-after: always;
+    print-color-adjust: exact;
+}
+
 body {
-    margin: 2rem
+    margin: 0
+}
+
+.date {
+    width: 75px;
 }
