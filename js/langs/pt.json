@@ -55,7 +55,9 @@
         "event_title_3": "Universidade",
         "event_subtitle_3": "Estou estudando Ciência da Computação na Unicarioca.",
         "event_title_4": "Link informática RJ",
-        "event_subtitle_4": "Exerço a função de desenvolvedor Full-atck na Link Informática RJ, onde desenvolvo sites e sistemas web, APIS e apps."
+        "event_subtitle_4": "Exerço a função de desenvolvedor Full-atck na Link Informática RJ, onde desenvolvo sites e sistemas web, APIS e apps.",
+        "event_title_5": "42 RIO",
+        "event_subtitle_5": "Estou estudando na 42 RIO, uma escola de programação francesa, onde estou aprendendo C e C++."
     },
     "cta": {
         "title": "Vamos trabalhar juntos? Mande uma mensagem"

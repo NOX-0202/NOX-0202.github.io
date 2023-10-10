@@ -101,11 +101,6 @@
     const setProjects = async () => {
         const projects = [
             {
-                title: "Volx Bet",
-                description: "website that helps blaze double gamblers.",
-                image: "./img/project-2.png",
-                url: "https://volx.com.br",
-            }, {
                 title: "Copypaste",
                 description: "simple website to share text and images in real time.",
                 image: "./img/project-3.png",
@@ -174,6 +169,12 @@
                 title: "Link informática RJ",
                 description: "I'm learning and developing mobile apps, web systems for customers and a SAS platform for intern purposes.everything was made with react and react-native.",
                 period_message: "(current job)",
+            },
+            {
+                title: "42 RIO",
+                description: "I'm currently studying software engineering at 42 school, Rio de Janeiro",
+                date_start: "10/2023",
+                date_end: "12/2027",
             }
         ];
 

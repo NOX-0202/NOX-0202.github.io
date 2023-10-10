@@ -34,16 +34,14 @@
     "projects": {
         "title": "Services",
         "subtitle": "Projects",
-        "project_title_1": "Volx Bet",
-        "project_subtitle_1": "website that helps blaze double gamblers.",
-        "project_title_2": "Copypaste",
-        "project_subtitle_2": "simple website to share text and images in real time.",
-        "project_title_3": "Point of sale",
-        "project_subtitle_3": "powerful sales app that works on/off line, sync with web panel and more",
-        "project_title_4": "EasyWork",
-        "project_subtitle_4": "platform to connect service provider to customers. (high school TCC)",
-        "project_title_5": "Dating Propose",
-        "project_subtitle_5": "project that youe put your lovers name and do not accept a no a awnser."
+        "project_title_1": "Copypaste",
+        "project_subtitle_1": "simple website to share text and images in real time.",
+        "project_title_2": "Point of sale",
+        "project_subtitle_2": "powerful sales app that works on/off line, sync with web panel and more",
+        "project_title_3": "EasyWork",
+        "project_subtitle_3": "platform to connect service provider to customers. (high school TCC)",
+        "project_title_4": "Dating Propose",
+        "project_subtitle_4": "project that youe put your lovers name and do not accept a no a awnser."
     },
     "timeline": {
         "title": "education",
@@ -55,7 +53,9 @@
         "event_title_3": "College",
         "event_subtitle_3": "I study computer science at Unicarioca, Rio de janeiro.",
         "event_title_4": "Link informática RJ",
-        "event_subtitle_4": "I developed mobile apps, web systems for customers and a SAS platform for intern purposes. everything was made with react and react-native."
+        "event_subtitle_4": "I developed mobile apps, web systems for customers and a SAS platform for intern purposes. everything was made with react and react-native.",
+        "event_title_5": "42 RIO",
+        "event_subtitle_5": "I'm a student at 42 RIO, a french programming school that uses a peer-to-peer learning method. I'm learning C, C++, Python, Shell, and more."
     },
     "cta": {
         "title": "NEED A DEVELOPER? CONTACT ME"
